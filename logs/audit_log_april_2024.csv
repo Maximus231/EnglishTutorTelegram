@@ -1,0 +1,89 @@
+2024-04-10 15:40:09,START,Application has been started working
+2024-04-10 15:40:21,START,Application has been started working
+2024-04-10 16:02:49,START,Application has been started working
+2024-04-10 16:08:35,START,Application has been started working
+2024-04-10 16:18:05,INFO,Translation. Message to translate: ¡Hola a todos! ¿Qué hay de nuevo hoy?
+2024-04-10 16:35:56,START,Application has been started working
+2024-04-10 16:36:11,INFO,Translation. Message to translate: ¡Hola a todos! ¿Qué hay de nuevo hoy?
+2024-04-10 16:39:12,START,Application has been started working
+2024-04-10 16:39:15,INFO,Translation. Message to translate: ¡Hola a todos! ¿Qué hay de nuevo hoy?
+2024-04-10 16:40:05,START,Application has been started working
+2024-04-10 16:40:08,INFO,Translation. Message to translate: ¡Hola a todos! ¿Qué hay de nuevo hoy?
+2024-04-10 16:40:09,ERROR,Translation. Can't translate the message from user 489973537 (Inyushkin). Message: ¡Hola a todos! ¿Qué hay de nuevo hoy?
+2024-04-10 16:40:11,INFO,Translation. Message to translate: ¡Hola a todos! ¿Qué hay de nuevo hoy?
+2024-04-10 16:40:12,ERROR,Translation. Can't translate the message from user 489973537 (Inyushkin). Message: ¡Hola a todos! ¿Qué hay de nuevo hoy?
+2024-04-10 16:42:17,START,Application has been started working
+2024-04-10 16:42:43,INFO,Translation. Message to translate: ¡Hola a todos! ¿Qué hay de nuevo hoy?
+2024-04-10 16:42:57,INFO,Translation. Message to translate: ¡Hola a todos! ¿Qué hay de nuevo hoy?
+2024-04-10 16:43:28,START,Application has been started working
+2024-04-10 16:43:33,INFO,Translation. Message to translate: ¡Hola a todos! ¿Qué hay de nuevo hoy?
+2024-04-10 16:44:41,INFO,Translation. Message to translate: ¡Hola a todos! ¿Qué hay de nuevo hoy? ¡Hola a todos! ¿Qué hay de nuevo hoy?
+2024-04-10 16:45:01,START,Application has been started working
+2024-04-10 16:45:13,INFO,Translation. Message to translate: ¡Hola a todos! ¿Qué hay de nuevo hoy? ¡Hola a todos! ¿Qué hay de nuevo hoy?
+2024-04-10 16:47:10,START,Application has been started working
+2024-04-10 16:47:23,INFO,Translation. Message to translate: ¡Hola a todos! ¿Qué hay de nuevo hoy? ¡Hola a todos! ¿Qué hay de nuevo hoy?
+2024-04-10 16:52:06,START,Application has been started working
+2024-04-10 16:52:18,INFO,Translation. Message to translate: ¡Hola a todos! ¿Qué hay de nuevo hoy? ¡Hola a todos! ¿Qué hay de nuevo hoy?
+2024-04-10 16:55:33,INFO,Translation. Message to translate: ¡Hola a todos! ¿Qué hay de nuevo hoy?
+2024-04-10 16:58:20,INFO,Translation. Message to translate: \x1b
+2024-04-10 16:58:33,INFO,Translation. Message to translate: \x1b
+2024-04-10 16:58:48,INFO,Translation. Message to translate: ~!@#$%^&U*I(OP{}|
+2024-04-10 17:01:19,START,Application has been started working
+2024-04-10 17:01:28,INFO,Translation. Message to translate: aaa
+2024-04-10 17:01:30,ERROR,Translation. Can't translate the message from user 489973537 (Inyushkin). Message: aaa
+2024-04-10 17:02:18,START,Application has been started working
+2024-04-10 17:03:43,INFO,Translation. Message to translate: aaa
+2024-04-10 17:06:37,START,Application has been started working
+2024-04-10 17:07:27,TEST,LIVE MODE (TEST = FALSE)
+2024-04-10 17:07:27,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-10 17:09:48,INFO,"Start working with MESSAGE:This message should be checked 
+And that one too"
+2024-04-10 17:09:48,TEST,LIVE MODE (TEST = FALSE)
+2024-04-10 17:09:48,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-10 17:11:06,START,Application has been started working
+2024-04-10 17:11:36,TEST,LIVE MODE (TEST = FALSE)
+2024-04-10 17:11:36,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-10 17:11:57,TEST,LIVE MODE (TEST = FALSE)
+2024-04-10 17:11:57,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-10 17:13:10,START,Application has been started working
+2024-04-10 17:13:21,TEST,LIVE MODE (TEST = FALSE)
+2024-04-10 17:13:21,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-10 17:13:47,TEST,LIVE MODE (TEST = FALSE)
+2024-04-10 17:13:47,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-10 17:14:07,START,Application has been started working
+2024-04-10 17:14:11,TEST,LIVE MODE (TEST = FALSE)
+2024-04-10 17:14:11,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-10 17:14:35,START,Application has been started working
+2024-04-10 17:14:47,TEST,LIVE MODE (TEST = FALSE)
+2024-04-10 17:14:47,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-10 17:15:00,TEST,LIVE MODE (TEST = FALSE)
+2024-04-10 17:15:00,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-10 17:15:24,TEST,LIVE MODE (TEST = FALSE)
+2024-04-10 17:15:24,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-10 17:16:41,TEST,LIVE MODE (TEST = FALSE)
+2024-04-10 17:16:41,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-10 17:18:47,INFO,"Start working with MESSAGE:When encountering such characters, it's essential to handle them appropriately, potentially by removing or replacing them beforrrre translation to ensure the accuracy and readability of the translated text. Aditionaly, it's a good practice to test the translation proces with various types of input text to identify and address any potential issues with specific characters."
+2024-04-10 17:18:47,TEST,LIVE MODE (TEST = FALSE)
+2024-04-10 17:18:47,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-10 17:19:15,INFO,"Start working with MESSAGE:When encountering such characters, it's essential to handle them appropriately, potentially by removing or replacing them before translation to ensure the accuracy and readability of the translated text. Additionally, it's a good practice to test the translation process with various types of input text to identify and address any potential issues with specific characters."
+2024-04-10 17:19:15,TEST,LIVE MODE (TEST = FALSE)
+2024-04-10 17:19:15,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-10 17:19:59,INFO,"Start working with MESSAGE:When encounterinng such characcters, it's essential to handle them appropriately, potentially by removing or replacing them before translation to ensure the accuracy and readability of the translated text. Additianally, it's a goodd practice to test the translation process with various types of input text to identify and address any potential issues with specifik characters."
+2024-04-10 17:19:59,TEST,LIVE MODE (TEST = FALSE)
+2024-04-10 17:19:59,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-10 17:24:09,START,Application has been started working
+2024-04-10 17:24:32,INFO,"Start working with MESSAGE:This message should be checked 
+And that one too "
+2024-04-10 17:24:32,TEST,LIVE MODE (TEST = FALSE)
+2024-04-10 17:24:32,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-10 17:24:51,INFO,"Start working with MESSAGE:This message shoulld be checked 
+And that one too "
+2024-04-10 17:24:51,TEST,LIVE MODE (TEST = FALSE)
+2024-04-10 17:24:51,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-10 17:25:48,START,Application has been started working
+2024-04-10 17:26:09,ERROR,"Checking. Can't do full check for the message from user 489973537 (Inyushkin). Message: raise TypeError(""Input text must be a string."") # this is for testing to raise exception"
+2024-04-10 17:29:01,START,Application has been started working
+2024-04-10 17:29:18,ERROR,"Message w/o emoji: Checking. Can't do full check for the message from user 489973537 (Inyushkin). Message: his message shoulld be checked 
+And that one too "
+2024-04-10 17:30:36,START,Application has been started working
+2024-04-10 17:38:34,START,Application has been started working
