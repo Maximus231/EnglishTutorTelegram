@@ -112,6 +112,13 @@ def form_mistakes(mistakes):
 	return mistakes_message
 
 
+def get_mistakes_topics(mistakes):
+	mistakes_topics = []
+	for mistake in mistakes:
+		mistakes_topics.append(mistake['Explanation'])
+	return mistakes_topics
+
+
 
 def ginger_parser(ginger_response="", initial_message=""):  # input: ginger's response, output: revised text, errors, ...
 	if ginger_response == "":
@@ -173,12 +180,12 @@ def check_mistakes(message, test_mode=True, show_descriptions=False):
 		try:
 			lg.log_message("PAYED", "Payed function has started. SERVICE: Ginger")
 			ginger_resp = requests.post(url, data=payload, headers=headers, params=querystring)
-			ginger_resp.raise_for_status()  # Raise an exception for HTTP errors
+			ginger_errors = ginger_resp.raise_for_status()  # Raise an exception for HTTP errors
 		except requests.RequestException as e:
-			lg.log_message("ERROR", "Can't receive an answer from Ginger"+e)
+			lg.log_message("ERROR", "Can't receive an answer from Ginger" + e)
 			lg.log_message("ERROR DATA", "Request:" + message)
 			lg.log_message("ERROR DATA", "Ginger response:" + ginger_resp.text)
-			print('Problem in lang.py, line 133')
+			print('Problem in lang.py, line 181')
 		initial_message = message
 		print("Called payed function!")
 	else:
@@ -190,11 +197,11 @@ def check_mistakes(message, test_mode=True, show_descriptions=False):
 		initial_message = remove_tags(initial_message)
 	corrected_message1, mistakes, is_errors = ginger_parser(ginger_resp, initial_message)
 	if not show_descriptions:
-		return is_errors, corrected_message1
+		return is_errors, corrected_message1, len(mistakes), get_mistakes_topics(mistakes)
 	else:
 		corrected_message_with_mistakes = highlight_message(initial_message, mistakes)
 		corrected_message_with_mistakes += form_mistakes(mistakes)
-		return is_errors, corrected_message_with_mistakes
+		return is_errors, corrected_message_with_mistakes, len(mistakes), get_mistakes_topics(mistakes)
 
 def remove_tags (message):
 	string = str(message)

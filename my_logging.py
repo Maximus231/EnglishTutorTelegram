@@ -15,6 +15,6 @@ def log_message(message_type, data):
         try:
             writer = csv.writer(file)
             writer.writerow([current_time, message_type, data])
-        except:
-            writer.writerow([current_time, message_type, "Cant log message with emoji. Message w/o emoji: " + lang.remove_telegram_emojis(data)])
-            print("Problems with update log!")
+        except Exception as e:
+            writer.writerow([current_time, message_type, "Cant log message with emoji. Message w/o emoji: " + lang.remove_telegram_emojis(data), e])
+            print("Problems with update log!", e)

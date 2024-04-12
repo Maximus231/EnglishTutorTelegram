@@ -1,0 +1,14 @@
+[
+    {
+        "id": 0,
+        "name": "Confusion between the singular and plural form of a noun"
+    },
+    {
+        "id": 1,
+        "name": "A word was not spelled correctly"
+    },
+    {
+        "id": 2,
+        "name": "Mismatch between the plurality of the verb and the subject"
+    }
+]

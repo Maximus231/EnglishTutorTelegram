@@ -1,0 +1,22 @@
+[
+    {
+        "id": 0,
+        "name": "A word was not spelled correctly"
+    },
+    {
+        "id": 1,
+        "name": "Confusion between the singular and plural form of a noun"
+    },
+    {
+        "id": 2,
+        "name": "Mismatch between the plurality of the verb and the subject"
+    },
+    {
+        "id": 3,
+        "name": "Confusion between words which sound similar or have a similar spelling"
+    },
+    {
+        "id": 4,
+        "name": "The first word in a sentence is not capitalized"
+    }
+]

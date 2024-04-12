@@ -87,3 +87,375 @@ And that one too "
 And that one too "
 2024-04-10 17:30:36,START,Application has been started working
 2024-04-10 17:38:34,START,Application has been started working
+2024-04-10 18:32:36,START,Application has been started working
+2024-04-10 18:54:37,START,Application has been started working
+2024-04-10 18:58:49,INFO,Translation. Message to translate: привет как дела
+2024-04-10 18:58:51,ERROR,Translation. Can't translate the message from user 489973537 (Inyushkin). Message: привет как дела
+2024-04-10 19:04:23,START,Application has been started working
+2024-04-10 19:04:46,INFO,Translation. Message to translate: привет как дела
+2024-04-10 19:06:30,START,Application has been started working
+2024-04-10 19:06:43,INFO,Translation. Message to translate: привет как дела
+2024-04-10 19:07:28,START,Application has been started working
+2024-04-10 19:07:44,INFO,Translation. Message to translate: привет как дела
+2024-04-10 19:07:46,ERROR,Translation. Can't translate the message from user 489973537 (Inyushkin). Message: привет как дела ERROR: 'NoneType' object has no attribute 'group'
+2024-04-10 19:09:16,START,Application has been started working
+2024-04-10 19:09:29,INFO,Translation. Message to translate: привет как дела
+2024-04-10 19:09:31,ERROR,Translation. Can't translate the message from user 489973537 (Inyushkin). Message: привет как дела ERROR: 'NoneType' object has no attribute 'group'
+2024-04-10 19:15:59,START,Application has been started working
+2024-04-10 19:16:12,INFO,Translation. Message to translate: привет как дела
+2024-04-10 19:24:45,START,Application has been started working
+2024-04-10 19:25:04,START,Application has been started working
+2024-04-10 19:26:28,INFO,Translation. Message to translate: привет как дела
+2024-04-10 19:34:13,START,Application has been started working
+2024-04-10 19:35:05,START,Application has been started working
+2024-04-10 19:35:26,INFO,Translation. Message to translate: привет как дела
+2024-04-10 23:29:18,START,Application has been started working
+2024-04-10 23:29:52,INFO,Translation. Message to translate: привет как дела
+2024-04-10 23:31:45,START,Application has been started working
+2024-04-10 23:31:54,INFO,Translation. Message to translate: привет как дела
+2024-04-10 23:32:14,INFO,Start working with MESSAGE:his message shoulld be checked
+2024-04-10 23:32:14,TEST,LIVE MODE (TEST = FALSE)
+2024-04-10 23:32:14,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-10 23:32:36,INFO,"Start working with MESSAGE:appropriately, potentially by removing or replacing them beforrrre translation to ensure the accuracy and readability of the translated text. Aditionaly, it's a good practice to test the translation proces with various types of input text to identify and address any potential issues with specific characters."
+2024-04-10 23:32:36,TEST,LIVE MODE (TEST = FALSE)
+2024-04-10 23:32:36,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-10 23:33:12,INFO,"Start working with MESSAGE:Appropriately, potentially by removing"
+2024-04-10 23:33:12,TEST,LIVE MODE (TEST = FALSE)
+2024-04-10 23:33:12,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-11 00:32:37,INFO,Start working with MESSAGE:Hey Anna! Nice to see you here! I've heard you are gonna to join but I'm happy you decided to do it #c
+2024-04-11 00:32:37,TEST,LIVE MODE (TEST = FALSE)
+2024-04-11 00:32:37,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-11 00:39:29,INFO,"Start working with MESSAGE:Hi, Max! Hi all! I've been wanting to join you for a very long time, it's true!
+
+My English is like a lame horse. I have it, but there are more problems with it than without it #c"
+2024-04-11 00:39:29,TEST,LIVE MODE (TEST = FALSE)
+2024-04-11 00:39:29,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-11 00:44:28,INFO,"Start working with MESSAGE:To check yourself you can use #c 
+And the bot's response will be just OK as a reaction or right (correct) phrase as the response or..."
+2024-04-11 00:44:28,TEST,LIVE MODE (TEST = FALSE)
+2024-04-11 00:44:28,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-11 00:45:42,INFO,"Start working with MESSAGE:you also can use #f to full check and revise of your message. E.g., you are making a miSStake... or mispriNNt..."
+2024-04-11 00:45:42,TEST,LIVE MODE (TEST = FALSE)
+2024-04-11 00:45:42,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-11 00:46:54,INFO,Start working with MESSAGE:I worked hard but now it seems that bot works #c
+2024-04-11 00:46:54,TEST,LIVE MODE (TEST = FALSE)
+2024-04-11 00:46:54,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-11 00:47:22,INFO,Start working with MESSAGE:bloody commas #f
+2024-04-11 00:47:22,TEST,LIVE MODE (TEST = FALSE)
+2024-04-11 00:47:22,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-11 00:56:17,INFO,"Start working with MESSAGE:Also I'm thinking about some sort of ""current rating"" for members. Could also be useful. You know... to control your current achievement and to compare your dynamics with others #f"
+2024-04-11 00:56:17,TEST,LIVE MODE (TEST = FALSE)
+2024-04-11 00:56:17,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-11 00:59:12,INFO,"Start working with MESSAGE:I think we will all be ready to wait for the results of your work, because this is what makes our English excellent!
+
+But if we can help you, it will be even better! but it's hard for me to imagine how to do this  #c"
+2024-04-11 00:59:12,TEST,LIVE MODE (TEST = FALSE)
+2024-04-11 00:59:12,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-11 09:27:47,START,Application has been started working
+2024-04-11 09:27:50,INFO,Start working with MESSAGE: hi
+2024-04-11 09:27:50,TEST,LIVE MODE (TEST = FALSE)
+2024-04-11 09:27:50,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-11 09:56:34,INFO,"Start working with MESSAGE:Hi there! I'm Dinara, live in Astana. What about a few words about yourself?"
+2024-04-11 09:56:34,TEST,LIVE MODE (TEST = FALSE)
+2024-04-11 09:56:34,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-11 10:11:33,INFO,Start working with MESSAGE:Hi I'm legenda 25 years old
+2024-04-11 10:11:33,TEST,LIVE MODE (TEST = FALSE)
+2024-04-11 10:11:33,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-11 10:18:12,INFO,"Start working with MESSAGE:Hmm. You have some sort of not regular name as I can see. So, good for you."
+2024-04-11 10:18:12,TEST,LIVE MODE (TEST = FALSE)
+2024-04-11 10:18:12,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-11 10:19:15,INFO,Start working with MESSAGE:Yes how old are you
+2024-04-11 10:19:15,TEST,LIVE MODE (TEST = FALSE)
+2024-04-11 10:19:15,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-11 10:20:59,INFO,"Start working with MESSAGE:It isn't a polite question to a lady, is it?"
+2024-04-11 10:20:59,TEST,LIVE MODE (TEST = FALSE)
+2024-04-11 10:20:59,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-11 10:31:55,INFO,Start working with MESSAGE:Ow excuse me how old are you
+2024-04-11 10:31:55,TEST,LIVE MODE (TEST = FALSE)
+2024-04-11 10:31:55,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-11 12:28:04,INFO,"Start working with MESSAGE:When you are 25 years old, this question does not seem impolite "
+2024-04-11 12:28:04,TEST,LIVE MODE (TEST = FALSE)
+2024-04-11 12:28:04,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-11 12:33:52,INFO,Start working with MESSAGE:Hahaha
+2024-04-11 12:33:52,TEST,LIVE MODE (TEST = FALSE)
+2024-04-11 12:33:52,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-11 12:56:07,INFO,Start working with MESSAGE:I don't understand
+2024-04-11 12:56:07,TEST,LIVE MODE (TEST = FALSE)
+2024-04-11 12:56:07,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-11 13:33:34,INFO,"Start working with MESSAGE:I'm not sure actually. But it is pure true when someone can be under 18 Even more, it becomes some sort of must-answered question "
+2024-04-11 13:33:34,TEST,LIVE MODE (TEST = FALSE)
+2024-04-11 13:33:34,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-11 13:46:35,INFO,Start working with MESSAGE:We live in an interesting time))
+2024-04-11 13:46:35,TEST,LIVE MODE (TEST = FALSE)
+2024-04-11 13:46:35,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-11 13:49:41,INFO,"Start working with MESSAGE:No worries then, I'm a bit over 18, but still stay seventeenish "
+2024-04-11 13:49:41,TEST,LIVE MODE (TEST = FALSE)
+2024-04-11 13:49:41,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-11 13:59:54,INFO,Start working with MESSAGE:This is actually the main reason for us to be here and to have some practice within this group - to increase our English level. Hope it works also for you
+2024-04-11 13:59:54,TEST,LIVE MODE (TEST = FALSE)
+2024-04-11 13:59:54,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-11 14:19:41,INFO,"Start working with MESSAGE:Yeah, it is very understandable, it's a bit more difficult for someones to start speaking English. For some of us probably even more difficult then for others..."
+2024-04-11 14:19:41,TEST,LIVE MODE (TEST = FALSE)
+2024-04-11 14:19:41,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-11 14:25:12,INFO,"Start working with MESSAGE:Oh. I completely forgot you are here, mate. Further I'll try to do my best, don't worry"
+2024-04-11 14:25:12,TEST,LIVE MODE (TEST = FALSE)
+2024-04-11 14:25:12,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-11 14:27:59,INFO,"Start working with MESSAGE:for example, I can read, but writing and speaking is always a big problem for me"
+2024-04-11 14:27:59,TEST,LIVE MODE (TEST = FALSE)
+2024-04-11 14:27:59,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-11 14:28:16,INFO,Start working with MESSAGE:I forget all the words when I have to say them 
+2024-04-11 14:28:16,TEST,LIVE MODE (TEST = FALSE)
+2024-04-11 14:28:16,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-11 14:29:45,INFO,"Start working with MESSAGE:Yeah, it still a bit strictish sometimes, sometimes even aggressive... but we're learning together"
+2024-04-11 14:29:45,TEST,LIVE MODE (TEST = FALSE)
+2024-04-11 14:29:45,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-11 14:31:47,INFO,"Start working with MESSAGE:It is very common, the words are the first part that we forget when do not use the language for a long time. So, practice is the mother of excellence I belive"
+2024-04-11 14:31:47,TEST,LIVE MODE (TEST = FALSE)
+2024-04-11 14:31:47,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-11 14:35:27,INFO,Start working with MESSAGE:This correction is foolish. Result is still stay incorrect. And by the way the initial phrase looks better
+2024-04-11 14:35:27,TEST,LIVE MODE (TEST = FALSE)
+2024-04-11 14:35:27,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-11 14:38:48,INFO,Start working with MESSAGE:Bot didn't understand the sense I suppose. It just has chouse from most frequent analogs and that's all. It works with common phrases and doesn't work with more complex sentences. True.
+2024-04-11 14:38:48,TEST,LIVE MODE (TEST = FALSE)
+2024-04-11 14:38:48,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-11 14:40:14,INFO,Start working with MESSAGE:Ok
+2024-04-11 14:40:14,TEST,LIVE MODE (TEST = FALSE)
+2024-04-11 14:40:14,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-11 23:14:18,START,Application has been started working
+2024-04-12 00:50:22,START,Application has been started working
+2024-04-12 00:50:58,INFO,Translation. Message to translate: перевод
+2024-04-12 00:51:23,INFO,Start working with MESSAGE:hi!
+2024-04-12 00:51:23,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 00:51:23,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 00:52:12,INFO,Start working with MESSAGE:hi
+2024-04-12 00:52:12,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 00:52:12,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 00:52:13,ERROR,Checking. Can't check the message from user 489973537 (Inyushkin). Message: hi ERROR: [Errno 2] No such file or directory: 'stat/blah_blah_eng_group_users.json'
+2024-04-12 00:57:03,START,Application has been started working
+2024-04-12 00:58:09,START,Application has been started working
+2024-04-12 00:58:16,INFO,Start working with MESSAGE:hi!
+2024-04-12 00:58:16,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 00:58:16,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 00:58:17,ERROR,Checking. Can't check the message from user 489973537 (Inyushkin). Message: hi! ERROR: 'list' object has no attribute 'popitem'
+2024-04-12 01:00:30,START,Application has been started working
+2024-04-12 01:00:36,INFO,Start working with MESSAGE:f
+2024-04-12 01:00:36,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 01:00:36,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 01:07:01,START,Application has been started working
+2024-04-12 01:07:11,INFO,Start working with MESSAGE:helo
+2024-04-12 01:07:11,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 01:07:11,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 01:20:36,START,Application has been started working
+2024-04-12 01:22:00,INFO,Start working with MESSAGE:Hi!
+2024-04-12 01:22:00,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 01:22:00,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 01:30:13,START,Application has been started working
+2024-04-12 01:30:21,INFO,Start working with MESSAGE:Hello!
+2024-04-12 01:30:21,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 01:30:21,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 01:31:28,START,Application has been started working
+2024-04-12 01:31:34,INFO,Start working with MESSAGE:Hi
+2024-04-12 01:31:34,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 01:31:34,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 01:32:15,START,Application has been started working
+2024-04-12 01:32:21,INFO,Start working with MESSAGE:K
+2024-04-12 01:32:21,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 01:32:21,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 01:35:21,START,Application has been started working
+2024-04-12 01:35:28,INFO,Start working with MESSAGE:Ji
+2024-04-12 01:35:28,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 01:35:28,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 01:39:43,START,Application has been started working
+2024-04-12 01:39:49,INFO,Start working with MESSAGE:Hi
+2024-04-12 01:39:49,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 01:39:49,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 01:46:12,START,Application has been started working
+2024-04-12 01:46:19,INFO,Start working with MESSAGE:Hello
+2024-04-12 01:46:19,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 01:46:19,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 01:53:07,START,Application has been started working
+2024-04-12 01:53:12,INFO,Start working with MESSAGE:Hi1
+2024-04-12 01:53:12,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 01:53:12,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 01:54:10,START,Application has been started working
+2024-04-12 01:54:16,INFO,Start working with MESSAGE:Hi
+2024-04-12 01:54:16,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 01:54:16,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 01:58:15,START,Application has been started working
+2024-04-12 01:58:20,INFO,Start working with MESSAGE:Hi
+2024-04-12 01:58:20,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 01:58:20,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 02:04:45,START,Application has been started working
+2024-04-12 02:04:50,INFO,Start working with MESSAGE:Hi
+2024-04-12 02:04:50,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 02:04:50,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 02:07:09,INFO,Start working with MESSAGE:Halo
+2024-04-12 02:07:09,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 02:07:09,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 02:11:35,START,Application has been started working
+2024-04-12 02:11:59,INFO,Start working with MESSAGE:Hi how am i
+2024-04-12 02:11:59,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 02:11:59,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 02:14:18,START,Application has been started working
+2024-04-12 02:14:24,INFO,Start working with MESSAGE:Try now
+2024-04-12 02:14:24,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 02:14:24,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 02:16:41,INFO,Start working with MESSAGE:How to check an errors
+2024-04-12 02:16:41,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 02:16:41,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 02:20:15,START,Application has been started working
+2024-04-12 02:20:42,INFO,Start working with MESSAGE:How to check an errors
+2024-04-12 02:20:42,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 02:20:42,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 02:20:44,ERROR,Checking. Can't check the message from user 6831267270 (None). Message: How to check an errors ERROR: 'popitem(): dictionary is empty'
+2024-04-12 02:24:41,START,Application has been started working
+2024-04-12 02:24:51,INFO,Start working with MESSAGE:How to check an errors
+2024-04-12 02:24:51,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 02:24:51,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 02:29:13,START,Application has been started working
+2024-04-12 02:29:30,INFO,Start working with MESSAGE:How to check an errors
+2024-04-12 02:29:30,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 02:29:30,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 02:32:55,START,Application has been started working
+2024-04-12 02:33:04,INFO,Start working with MESSAGE:How to check an errors
+2024-04-12 02:33:04,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 02:33:04,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 02:35:34,START,Application has been started working
+2024-04-12 02:35:42,INFO,Start working with MESSAGE:How to check an errors
+2024-04-12 02:35:42,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 02:35:42,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 02:43:05,START,Application has been started working
+2024-04-12 02:43:30,INFO,Start working with MESSAGE:How to check an errors
+2024-04-12 02:43:30,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 02:43:30,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 02:45:15,START,Application has been started working
+2024-04-12 02:46:19,INFO,Start working with MESSAGE:How to check an errors. Hanasa is a clinic in Jierusalem. I likes tort
+2024-04-12 02:46:19,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 02:46:19,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 02:46:22,ERROR,"Checking. Can't check the message from user 6831267270 (None). Message: How to check an errors. Hanasa is a clinic in Jierusalem. I likes tort ERROR: string indices must be integers, not 'str'"
+2024-04-12 02:47:43,INFO,Start working with MESSAGE:How to check an errors
+2024-04-12 02:47:43,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 02:47:43,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 02:47:44,ERROR,"Checking. Can't check the message from user 6831267270 (None). Message: How to check an errors ERROR: string indices must be integers, not 'str'"
+2024-04-12 02:49:04,INFO,Start working with MESSAGE:How to check an errors
+2024-04-12 02:49:04,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 02:49:04,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 02:49:06,ERROR,"Checking. Can't check the message from user 6831267270 (None). Message: How to check an errors ERROR: string indices must be integers, not 'str'"
+2024-04-12 02:51:25,INFO,Start working with MESSAGE:How to check an errors
+2024-04-12 02:51:25,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 02:51:25,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 02:51:27,ERROR,"Checking. Can't check the message from user 6831267270 (None). Message: How to check an errors ERROR: string indices must be integers, not 'str'"
+2024-04-12 02:53:03,INFO,Start working with MESSAGE:Hi
+2024-04-12 02:53:03,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 02:53:03,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 02:54:15,START,Application has been started working
+2024-04-12 02:55:01,INFO,Start working with MESSAGE:How to check an errors
+2024-04-12 02:55:01,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 02:55:01,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 02:55:03,ERROR,"Checking. Can't check the message from user 6831267270 (None). Message: How to check an errors ERROR: string indices must be integers, not 'str'"
+2024-04-12 02:56:34,START,Application has been started working
+2024-04-12 02:56:42,INFO,Start working with MESSAGE:How to check an errors
+2024-04-12 02:56:42,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 02:56:42,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 02:57:14,START,Application has been started working
+2024-04-12 02:57:25,INFO,Start working with MESSAGE:How to check an errors
+2024-04-12 02:57:25,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 02:57:25,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 02:57:43,INFO,Start working with MESSAGE:How to check an errors. Hanasa is a clinic in Jierusalem. I likes tort
+2024-04-12 02:57:43,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 02:57:43,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 03:01:56,START,Application has been started working
+2024-04-12 03:02:04,INFO,Start working with MESSAGE:How to check an errors. Hanasa is a clinic in Jierusalem. I likes tort
+2024-04-12 03:02:04,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 03:02:04,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 03:03:51,START,Application has been started working
+2024-04-12 03:03:56,INFO,Start working with MESSAGE:How to check an errors. Hanasa is a clinic in Jierusalem. I likes tort
+2024-04-12 03:03:56,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 03:03:56,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 03:05:30,START,Application has been started working
+2024-04-12 03:05:37,INFO,Start working with MESSAGE:How to check an errors. Hanasa is a clinic in Jierusalem. I likes tort
+2024-04-12 03:05:37,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 03:05:37,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 03:08:23,START,Application has been started working
+2024-04-12 03:08:27,INFO,Start working with MESSAGE:How to check an errors. Hanasa is a clinic in Jierusalem. I likes tort
+2024-04-12 03:08:27,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 03:08:27,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 03:10:38,START,Application has been started working
+2024-04-12 03:10:45,INFO,Start working with MESSAGE:How to check an errors. Hanasa is a clinic in Jierusalem. I likes tort
+2024-04-12 03:10:45,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 03:10:45,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 03:16:48,START,Application has been started working
+2024-04-12 03:16:55,INFO,Start working with MESSAGE:How to check an errors. Hanasa is a clinic in Jierusalem. I likes tort
+2024-04-12 03:16:55,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 03:16:55,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 03:19:10,START,Application has been started working
+2024-04-12 03:19:44,INFO,Start working with MESSAGE:How to check an errors. Hanasa is a clinic in Jierusalem. I likes tortillini. Cats has pot
+2024-04-12 03:19:44,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 03:19:44,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 03:34:48,START,Application has been started working
+2024-04-12 03:35:02,INFO,Translation. Message to translate: Перевод это хорошо
+2024-04-12 03:35:51,START,Application has been started working
+2024-04-12 03:36:01,INFO,Translation. Message to translate: Перевод это хорошо
+2024-04-12 03:36:03,ERROR,Translation. Can't translate the message from user 6831267270 (None). Message: Перевод это хорошо ERROR: 'str' object has no attribute 'from_user'
+2024-04-12 03:37:19,START,Application has been started working
+2024-04-12 03:37:29,INFO,Translation. Message to translate: Перевод это хорошо
+2024-04-12 03:44:03,INFO,Start working with MESSAGE:How to check an error. Hanasa is a clinic in Jerusalem. I like tort
+2024-04-12 03:44:03,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 03:44:03,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 03:44:05,ERROR,Checking. Can't check the message from user 489973537 (Inyushkin). Message: How to check an error. Hanasa is a clinic in Jerusalem. I like tort ERROR: Expecting value: line 1 column 1 (char 0)
+2024-04-12 03:45:59,START,Application has been started working
+2024-04-12 03:46:11,INFO,Start working with MESSAGE:How to check an error. Hanasa is a clinic in Jerusalem. I like tort
+2024-04-12 03:46:11,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 03:46:11,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 03:46:13,ERROR,Checking. Can't check the message from user 489973537 (Inyushkin). Message: How to check an error. Hanasa is a clinic in Jerusalem. I like tort ERROR: Expecting value: line 1 column 1 (char 0)
+2024-04-12 03:46:47,INFO,Start working with MESSAGE:How to check an error. Hanasa is a clinic in Jerusalem. I like tort
+2024-04-12 03:46:47,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 03:46:47,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 03:48:41,START,Application has been started working
+2024-04-12 03:48:50,INFO,Start working with MESSAGE:How to check an error. Hanasa is a clinic in Jerusalem. I like tort
+2024-04-12 03:48:50,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 03:48:50,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 03:49:17,INFO,Start working with MESSAGE:How to check an errors. Hanasa is a clinic in Jierusalem. I likes tortillini. Cats has pot
+2024-04-12 03:49:17,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 03:49:17,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 03:50:01,INFO,Start working with MESSAGE:Aha. How are you doing here right now. Wahh
+2024-04-12 03:50:01,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 03:50:01,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 03:50:11,INFO,Start working with MESSAGE:Tripppolo
+2024-04-12 03:50:11,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 03:50:11,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 03:50:29,INFO,Start working with MESSAGE:Hala bola is a cat or dg
+2024-04-12 03:50:29,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 03:50:29,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 03:51:31,INFO,Start working with MESSAGE:Here is a mistakes
+2024-04-12 03:51:31,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 03:51:31,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 03:52:24,INFO,Start working with MESSAGE:Here is a mistakes
+2024-04-12 03:52:24,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 03:52:24,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 04:16:52,START,Application has been started working
+2024-04-12 04:17:12,INFO,Start working with MESSAGE:How to check an errors. Hanasa is a clinic in Jierusalem. I likes tortillini. Cats has pot
+2024-04-12 04:17:12,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 04:17:12,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 04:18:19,START,Application has been started working
+2024-04-12 04:18:24,INFO,Start working with MESSAGE:How to check an errors. Hanasa is a clinic in Jierusalem. I likes tortillini. Cats has pot
+2024-04-12 04:18:24,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 04:18:24,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 04:31:00,START,Application has been started working
+2024-04-12 04:31:15,INFO,Translation. Message to translate: Перевод это хорошо
+2024-04-12 04:31:38,INFO,Start working with MESSAGE:Hala bola is a cat or dg
+2024-04-12 04:31:38,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 04:31:38,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 04:32:26,INFO,Start working with MESSAGE:How to check an errors. Hanasa is a clinic in Jierusalem. I likes tortillini. Cats has pot
+2024-04-12 04:32:26,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 04:32:26,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 04:34:08,INFO,"Start working with MESSAGE:appropriately, potentially by removing or replacing them beforrrre translation to ensure the accuracy and readability of the translated text. Aditionaly, it's a good practice to test the translation proces with various types of input text to identify and address any potential issues with specific characters."
+2024-04-12 04:34:08,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 04:34:08,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 04:42:48,START,Application has been started working
+2024-04-12 07:13:40,INFO,Start working with MESSAGE:Good morning....
+2024-04-12 07:13:40,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 07:13:40,PAYED,Payed function has started. SERVICE: Ginger
+2024-04-12 07:16:47,INFO,"Start working with MESSAGE:Hello! Nice to see you. Could you please write in a #General topic, here is the spell checking bot, who is very annoying sometimes"
+2024-04-12 07:16:47,TEST,LIVE MODE (TEST = FALSE)
+2024-04-12 07:16:47,PAYED,Payed function has started. SERVICE: Ginger
